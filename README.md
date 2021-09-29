@@ -10,6 +10,14 @@ It is a Newspaper Project. In this project, I have created an application for a 
 ## Aim: 
 Aim of this project is to create a simple but effective newspaper application so that the user of this application can publish reports easily. And the second most reason behind this project is that Django was initially designed for a Newspaper so, The choice of a newspaper app pays homage to Django’s roots as a web framework built for editors and journalists at the Lawrence Journal-World.
 
+## Built in
+
+* Python - Django
+* Html
+* Css
+* Bootstrap
+
+
 ## Key Topics
 
 * Custom user Model
@@ -21,3 +29,6 @@ Aim of this project is to create a simple but effective newspaper application so
 * Comment
 * CRUD
 
+# Acknowledgements
+
+Book: Django for Beginners
